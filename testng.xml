@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+	
+	
+	<test thread-count="2" name="Error Validations Test">
+		<classes>
+			<class name="yess.Errorvalidations" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test thread-count="2" name="Main Test">
+		<classes>
+			<class name="runb.ecommerce" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
